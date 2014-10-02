@@ -1,0 +1,3 @@
+
+consulta crear usuario
+$sql = "INSERT INTO `paper_web`.`users` (`id`, `usuario`, `password`, `correo`, `nombre`, `esSistemas`, `esEscolar`) VALUES (\'1\', \'dani\', \'medina\', \'prueba@paper.com\', \'Edwin Rodriguez\', \'1\', NULL), (NULL, \'ana\', \'medina\', \'ana@paper.com\', \'Ana Betty\', NULL, \'1\');";
