@@ -26,4 +26,7 @@ function menu($id){
 		echo 'Error de Sistema.';	
 	}
 }
-?>
+
+Function prueba(){
+	echo 'Esto es php y una prueba de commit en GitHub!';
+}
